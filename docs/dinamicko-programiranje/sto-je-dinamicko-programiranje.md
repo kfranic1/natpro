@@ -60,7 +60,7 @@ int memo[MAXN][MAXN];
 
 int solve(int x, int y){
     //ako na trenutnom mjestu postoji broj koji nije -1 tada je to stanje već posjećeno
-    if(memo[x][y] != -1) return memo[x][y]
+    if(memo[x][y] != -1) return memo[x][y];
     //nalazimo se u početnom stanju
     if(x == 0 && y == 0) return M[x][y];
     //nalazimo se u gornje retku

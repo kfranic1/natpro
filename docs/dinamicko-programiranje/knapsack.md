@@ -27,7 +27,7 @@ long long int solve(int items, int cap){
     if(items < 0) return 0;
     if(memo[items][cap] != -1) return memo[items][cap];
 	if(stvari[items].first > cap) return memo[items][cap] = solve(items - 1, cap);
-	return memo[items][cap] = max(solve(items - 1, cap), stvari[items].second + solve(items - 1, cap - stvari[items].first));;
+	return memo[items][cap] = max(solve(items - 1, cap), stvari[items].second + solve(items - 1, cap - stvari[items].first));
 }
 
 int main(){
