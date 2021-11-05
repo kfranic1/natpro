@@ -14,7 +14,7 @@ Ovi materijali su namijenjeni svima koji žele unaprijediti svoje znanje o progr
 
 ### Tko je napravio ove materijale?
 
-Ivan Vlahov, student na Fakultetu Elektrotehnike i Računarstva, napravio je stranicu, dok su za sadržaj na stranici odgovorni odlični [autori članaka](../doprinos-ovim-materijalima/autori).
+Ivan Vlahov, student treće godine Fakulteta Elektrotehnike i Računarstva na Sveučilištu u Zagrebu, kojem je u srednjoj školi nedostajalo kvalitetnih materijala za pripremu za natjecanja iz informatike.
 
 ### Što očekivati od ovih materijala?
 
@@ -22,6 +22,6 @@ Možete očekivati sadržaj koji obuhvaća gradivo natjecanja iz informatike za 
 
 ### Što ne očekivati od ovih materijala?
 
-Nemojte očekivati da ćete **samo** čitanjem ovih materijala postati vrsni natjecatelj. Ovi materijali objašnjavaju koncepte natjecateljskog programiranja koje možete u potpunosti naučiti jedino rješavanjem zadataka koje uključuju te koncepte. Samo učenjem algoritama napamet nećete puno postići, zato savjetujemo da isprobate riješiti zadatke koje ćete moći pronaći na krajevima nekih članaka.
+Nemojte očekivati da ćete **samo** čitanjem ovih materijala postati vrsni programer. Ovi materijali objašnjavaju koncepte natjecateljskog programiranja koje možete u potpunosti naučiti jedino rješavanjem zadataka koje uključuju te koncepte. Samo učenjem algoritama napamet nećete puno postići, zato savjetujemo da isprobate riješiti zadatke koje ćete moći pronaći na krajevima nekih članaka.
 
 

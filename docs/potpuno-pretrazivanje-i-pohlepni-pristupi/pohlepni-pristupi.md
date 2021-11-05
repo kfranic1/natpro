@@ -2,10 +2,6 @@
 title: "Pohlepni pristupi" 
 ---
 
-import Author from '../../src/react_components/author.js';
-
-<Author authorName='Petar Mihalj' githubUsername='PetarMihalj'/>
-
 **Pohlepni pristupi** predstavljaju skup algoritamskih postupaka u kojima se potpuno rješenje problema
 komponira poduzimajući korake koji se u djelomičnom rješenju čine *lokalno najboljima*.
 
